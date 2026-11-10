@@ -4,8 +4,9 @@ A one-click shutdown timer for Windows. Pick a delay, or cancel a pending shutdo
 
 | Version | Files | What it does |
 |---|---|---|
-| v1 | `src/v1/shutdown-timer.vbs` | Starts a 1-hour timer, or cancels one |
 | v2 (current) | `src/v2/shutdown-timer.cmd` | Sets a 15 min / 30 min / 1 h / 2 h timer, or cancels it, from one window |
+| v1 | `src/v1/shutdown-timer.vbs` | Starts a 1-hour timer, or cancels one |
+
 
 ## Design and implementation
 
